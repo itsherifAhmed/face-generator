@@ -23,13 +23,7 @@
 
 
 
-#  random face generator App ✍🏻
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+
 
 
 random face App app is open-source  app for Android & ios. It is built with Dart on top of Google's Flutter Framework.
@@ -38,7 +32,7 @@ random face App app is open-source  app for Android & ios. It is built with Dart
 ![Dart](https://img.shields.io/badge/Dart-Language-blue?logo=dart)
 
 
-<p><img src="snapshot/assets/images/face.png" /></p>
+<p><img src="assets/images/face.png" /></p>
 <p align="center"><b>Random Face App </b></p>
 
 ##:rocket: youtube Tutorial
@@ -89,3 +83,14 @@ random face App app is open-source  app for Android & ios. It is built with Dart
 - [qr code app](https://github.com/itsherifAhmed/qr-barcode)
 - [facebook ui clone](https://github.com/itsherifAhmed/facebook-ui-clone)
 - [Login Screen](https://github.com/itsherifAhmed/login-screen)
+
+
+
+
+#  random face generator App ✍🏻
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
